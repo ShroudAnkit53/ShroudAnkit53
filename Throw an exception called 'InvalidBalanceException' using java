@@ -1,0 +1,56 @@
+import java.util.Scanner;
+class InvalidBalanceException extends Exception
+{
+	InvalidBalanceException(String str){
+	  super(str);
+	}
+}
+class Bank
+{
+	long account_no;
+	String name;
+	int balance;
+	int withdraw;
+	int after_withdraw;
+	Bank(long a, String n, int b, int w, int c){
+		this.account_no=a;
+		this.name=n;
+		this.balance=b;
+		this.withdraw=w;
+		this.after_withdraw=b-w;
+	}
+	public void display()throws Exception
+	{
+		if(this.after_withdraw<0||this.after_withdraw==0)
+			throw new InvalidBalanceException("Balance can't be 0");
+		else
+			System.out.println(this.name+" "+this.account_no+" "+this.balance+" "+this.withdraw+" "+this.after_withdraw);
+	}
+}
+public class HA3Q1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    Scanner sc= new Scanner(System.in);
+    System.out.println("Enter name: ");
+    String n=sc.next();
+    System.out.println("Enter account number: ");
+    long a=sc.nextLong();
+    System.out.println("Enter balance: ");
+    int b=sc.nextInt();
+    System.out.println("Details of bank account: \nName: "+n+" Account number: "+a+" Current Balance: "+b+"Rs.");
+    System.out.print("Enter the money to withdraw: ");
+    int w=sc.nextInt();
+    System.out.println("After withdraw, balance is: "+(b-w));
+    Bank ob= new Bank(a,n,b,w,(b-w));
+    try
+    {
+    	ob.display();
+    }
+    catch(Exception e)
+    {
+    	System.out.println(e);
+    }
+	}
+
+}
