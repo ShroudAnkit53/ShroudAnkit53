@@ -101,50 +101,46 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4f46e5&height=200&section=header&text=&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Senior+Software+Engineer;AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Ankit+Kumar+Sahoo;Frontend+Developer+%7C+Full+Stack+Engineer;Building+Intelligent+%26+Scalable+Web+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Information%20Technology-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Specialization-Artificial%20Intelligence%20%26%20ML-7c3aed?style=for-the-badge&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/ITER-Siksha'O'Anusandhan%20University-7c3aed?style=for-the-badge&logoColor=white" />
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/📍-India-4f46e5?style=flat-square&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/📍-Bhubaneswar%2C%20India-4f46e5?style=flat-square&labelColor=1e1b4b" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square&labelColor=14532d" />
 
 <br/>
 <br/>
 
-<a href="https://yourportfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-yourportfolio.dev-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/ankit-kumar-sahoo-9015b9271">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:you@email.com">
+<a href="mailto:ankitomm4040@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/yourusername">
+<a href="https://github.com/ShroudAnkit53">
   <img src="https://img.shields.io/badge/GitHub-Follow-1e1b4b?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=7c3aed&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=ShroudAnkit53&style=flat-square&color=7c3aed&label=Profile+Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=6d28d9&label=Followers&logo=github" />
+<img src="https://img.shields.io/github/followers/ShroudAnkit53?style=flat-square&color=6d28d9&label=Followers&logo=github" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/yourusername?style=flat-square&color=4f46e5&label=Total+Stars&logo=github" />
+<img src="https://img.shields.io/github/stars/ShroudAnkit53?style=flat-square&color=4f46e5&label=Total+Stars&logo=github" />
 
 </div>
 
@@ -152,18 +148,18 @@
 
 ## ⬡ &nbsp;About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=e2e8f0&ring_color=4f46e5" width="420" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShroudAnkit53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=e2e8f0&ring_color=4f46e5" width="420" />
 
-I am a **Senior Software Engineer** with deep expertise in designing and shipping **large-scale distributed systems**, **AI/ML-powered products**, and **full stack applications** trusted by thousands of users in production.
+I am a **B.Tech Computer Science student** and passionate **Frontend Developer** at ITER, Siksha'O'Anusandhan University, with a strong foundation in building responsive, user-centric web interfaces and full stack applications.
 
-My engineering philosophy bridges first-principles architecture thinking with execution speed — I move from system design to deployed product with minimal friction. I have a strong background in **applied machine learning**, **LLM-based product development**, and **cloud-native backend engineering**, and I treat engineering as a craft that exists to drive measurable business outcomes.
+My development approach centers on writing clean, maintainable code that solves real-world problems — from e-commerce platforms and AI-powered desktop assistants to food delivery services. I bring a product-first mindset to every project, with an eye for UI/UX quality and a drive for technical depth.
 
-I contribute to **open source**, mentor early-career engineers, and actively pursue the intersection of **developer experience** and **intelligent systems**. My work spans the entire stack — from GPU-accelerated model training pipelines to pixel-perfect, high-performance frontends.
+I have hands-on experience with the complete web stack — HTML, CSS, JavaScript, React.js, Node.js, PHP, and MySQL — and I thrive in collaborative environments, having led hackathon teams and contributed actively in internship settings. I am currently expanding my expertise into **GenAI**, **Python-based AI tooling**, and **scalable backend systems**.
 
 <br/>
 
 **Open To:**&nbsp;
-`Full-Time SWE Roles` &nbsp;`AI/ML Engineering` &nbsp;`Research Engineering` &nbsp;`Open Source Collaboration` &nbsp;`Technical Advisory`
+`Frontend Developer Roles` &nbsp;`Full Stack Internships` &nbsp;`Open Source Collaboration` &nbsp;`SDE New Grad Positions`
 
 <br/>
 
@@ -175,28 +171,28 @@ I contribute to **open source**, mentor early-career engineers, and actively pur
 
 ### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,rust,java,cpp,bash&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp,java,php,mysql&theme=dark&perline=8" />
 </a>
 
 <br/>
 
 ### Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,graphql,figma,html,css&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,figma&theme=dark&perline=8" />
 </a>
 
 <br/>
 
 ### Backend & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,postgresql,mongodb,redis,kafka&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql&theme=dark&perline=8" />
 </a>
 
 <br/>
 
-### Cloud, DevOps & Tooling
+### Tools & Environment
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,nginx,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,github,git&theme=dark&perline=8" />
 </a>
 
 </div>
@@ -209,13 +205,11 @@ I contribute to **open source**, mentor early-career engineers, and actively pur
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| Large Language Models | ████████████ Expert | GPT-4, Claude, Gemini, fine-tuning, RLHF, prompt engineering, RAG pipelines |
-| Deep Learning | ███████████░ Advanced | PyTorch, TensorFlow, custom architectures, transformer internals |
-| Computer Vision | ██████████░░ Advanced | YOLO, ViT, diffusion models, image segmentation, object detection |
-| NLP & Text Analytics | ████████████ Expert | Named entity recognition, semantic search, embeddings, vector DBs |
-| MLOps & Infra | ██████████░░ Advanced | MLflow, Weights & Biases, model serving, Triton Inference Server |
-| Reinforcement Learning | ████████░░░░ Proficient | PPO, DQN, policy optimization, multi-agent environments |
-| Data Engineering | ██████████░░ Advanced | Spark, dbt, Airflow, feature stores, lakehouse architecture |
+| Python AI Tooling | ████████░░░░ Proficient | Voice recognition, speech synthesis, OS automation, task scripting |
+| GenAI Prototyping | ████████░░░░ Proficient | LLM-based solution design, GenAI hackathon development, prompt design |
+| Web Intelligence | ███████░░░░░ Developing | Interactive UI logic, form intelligence, dynamic rendering with JS |
+| Data Foundations | ███████░░░░░ Developing | MySQL data modeling, query optimization, relational schema design |
+| Basics of Python ML | ██████░░░░░░ Developing | Infosys Springboard certified, NumPy, basic model concepts |
 
 </div>
 
@@ -224,88 +218,66 @@ I contribute to **open source**, mentor early-career engineers, and actively pur
 ## ⬡ &nbsp;Featured Projects
 
 <details>
-<summary><b>&nbsp;⬡ &nbsp;Intelligent Document Intelligence Platform</b></summary>
+<summary><b>&nbsp;⬡ &nbsp;E-Commerce Shopping Website</b></summary>
 
 <br/>
 
-> An enterprise-grade, multi-tenant document understanding platform powered by a custom RAG pipeline and fine-tuned LLMs — capable of ingesting, parsing, and querying millions of documents with sub-second semantic retrieval at scale.
+> A full-featured online shopping platform where users can browse products, add items to a cart, make secure purchases, and manage accounts — built with a complete client-server architecture using PHP and MySQL for backend data persistence.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · FastAPI · LangChain · Pinecone · PostgreSQL · Next.js · AWS ECS · Terraform |
-| **Scale** | 5M+ documents indexed · 50K+ daily active users · 99.97% uptime SLA |
-| **Performance** | P95 query latency < 180ms · 40% cost reduction via quantized model serving |
-| **Security** | SOC 2 Type II compliant · tenant-scoped vector isolation · AES-256 encryption at rest |
-| **Impact** | Reduced manual document review time by 73% across 12 enterprise clients |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/project-one) |
+| **Stack** | HTML · CSS · JavaScript · PHP · MySQL |
+| **Scale** | Multi-user support · product catalog · cart and order management system |
+| **Performance** | Optimized MySQL queries · session-based auth · responsive across all viewports |
+| **Security** | Server-side form validation · session management · SQL injection prevention |
+| **Impact** | Demonstrates end-to-end full stack capability across frontend, backend, and database layers |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/ShroudAnkit53) |
 
-This platform solves a core enterprise problem: the inability to query unstructured knowledge at scale. The architecture centers on a hybrid retrieval system combining BM25 sparse retrieval with dense vector embeddings, re-ranked via a cross-encoder. A fine-tuned Mistral-7B model handles answer generation, served via vLLM on AWS Inferentia2 for cost-optimal throughput. The frontend delivers a chat-like query UX with inline citation rendering and document provenance tracking.
+This project was designed to mirror a production e-commerce experience at a smaller scale. The frontend delivers a clean, intuitive shopping flow — product listings, filtering, cart management, and a checkout process. The PHP backend handles session-based user authentication, order processing logic, and MySQL interactions for persistent product and order data. The schema is normalized to third normal form to maintain data integrity across concurrent sessions.
 
 <br/>
 
 </details>
 
 <details>
-<summary><b>&nbsp;⬡ &nbsp;Real-Time ML Feature Platform</b></summary>
+<summary><b>&nbsp;⬡ &nbsp;J.A.R.V.I.S — AI Desktop Assistant</b></summary>
 
 <br/>
 
-> A horizontally scalable, low-latency feature serving platform enabling ML teams to define, compute, and serve features at production scale — decoupling feature engineering from model training and inference.
+> An intelligent voice-activated desktop assistant that automates system tasks, answers queries, and controls system functions using Python-based AI and speech processing libraries — inspired by conversational AI interaction paradigms.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Go · Kafka · Redis Cluster · Apache Flink · Cassandra · gRPC · Kubernetes · Prometheus |
-| **Scale** | 2B+ feature values served daily · 300+ registered features · < 5ms P99 read latency |
-| **Performance** | 200K RPS peak throughput · horizontal autoscaling · backfill pipelines for 3-year history |
-| **Security** | mTLS between services · RBAC-gated feature access · audit logging on all reads |
-| **Impact** | Enabled 7 ML teams to ship models 3× faster by eliminating redundant feature pipelines |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/project-two) |
+| **Stack** | Python · SpeechRecognition · pyttsx3 · Wikipedia API · OS libraries |
+| **Scale** | Single-user local assistant · extensible command registry · multi-domain query handling |
+| **Performance** | Sub-second command recognition · offline TTS synthesis · low memory footprint |
+| **Security** | Local execution only · no external data transmission · sandboxed OS calls |
+| **Impact** | Demonstrates applied Python AI tooling, voice interface design, and desktop automation |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/ShroudAnkit53) |
 
-Designed around the feature store paradigm, this platform separates offline batch computation from online low-latency serving. Flink streaming jobs compute windowed aggregations from Kafka event streams in real time, materializing to Redis for sub-millisecond lookup. A gRPC API abstracts feature retrieval with automatic version management, lineage tracking, and schema validation. Kubernetes-based autoscaling handles unpredictable traffic spikes without manual intervention.
+J.A.R.V.I.S combines several Python AI libraries to create a cohesive voice-driven experience. The speech recognition pipeline converts microphone input to text in real time, which is then matched against a command registry supporting web search, Wikipedia lookups, file management, application launching, and time/date queries. Text-to-speech synthesis via pyttsx3 delivers spoken responses, creating a fully hands-free interaction loop. The architecture is modular, allowing new command handlers to be registered with minimal changes.
 
 <br/>
 
 </details>
 
 <details>
-<summary><b>&nbsp;⬡ &nbsp;Autonomous Code Review Agent</b></summary>
+<summary><b>&nbsp;⬡ &nbsp;Online Food Service Website</b></summary>
 
 <br/>
 
-> An AI-native code review agent that integrates with GitHub PRs to deliver contextual, repository-aware code feedback — covering security vulnerabilities, architectural anti-patterns, test coverage gaps, and performance regressions.
+> A web-based food ordering platform that allows users to browse restaurant menus, place food orders, make reservations, and manage subscriptions — built with a PHP backend and MySQL-powered data layer.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · LangGraph · Claude API · GitHub Actions · FastAPI · Redis · Docker |
-| **Scale** | 10K+ PRs reviewed · 150+ repositories integrated · multi-language support |
-| **Performance** | Review delivered in < 45s per PR · 94% developer satisfaction score |
-| **Security** | No source code stored externally · ephemeral sandboxed analysis · HMAC webhook verification |
-| **Impact** | Caught 340+ security vulnerabilities in production PRs within first 60 days of deployment |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/project-three) |
+| **Stack** | HTML · CSS · JavaScript · PHP · MySQL |
+| **Scale** | Menu catalog · order placement · reservation system · subscription management |
+| **Performance** | Dynamic menu rendering · server-side order processing · responsive mobile layout |
+| **Security** | Input sanitization · session-based user state · parameterized DB queries |
+| **Impact** | Full stack project showcasing real-world service delivery application design |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/ShroudAnkit53) |
 
-Built on LangGraph's stateful agent framework, this tool maintains conversation context across review iterations, enabling developers to ask follow-up questions directly in the PR thread. An AST-level code parser constructs a structured diff representation that significantly improves model reasoning quality over raw unified diffs. A custom retrieval layer indexes the repository's historical patterns to deliver organization-specific style and architecture feedback — not generic suggestions.
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>&nbsp;⬡ &nbsp;Distributed Job Scheduling Engine</b></summary>
-
-<br/>
-
-> A fault-tolerant, priority-aware distributed task scheduling engine supporting DAG-based workflows, dynamic resource allocation, and multi-cloud execution backends — built for data pipelines and ML training orchestration.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Rust · Go · etcd · PostgreSQL · gRPC · Prometheus · Grafana · AWS Batch · GCP Cloud Run |
-| **Scale** | 500K+ jobs executed monthly · 99.99% job completion rate · 12-node scheduler cluster |
-| **Performance** | Job scheduling latency < 10ms · DAG resolution for 10K-node graphs in < 200ms |
-| **Security** | Signed job manifests · secrets injection via Vault · network-isolated execution sandboxes |
-| **Impact** | Replaced a commercial orchestrator, saving $180K/year in licensing cost |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/project-four) |
-
-The scheduler core is written in Rust for deterministic latency and memory safety. etcd serves as the distributed coordination layer for leader election, scheduler state, and worker heartbeating. A priority queue backed by a min-heap with multi-dimensional scoring (priority, deadline, resource affinity) ensures fair and efficient job dispatch. The system supports arbitrary DAG-structured workflows with dynamic fan-out, conditional branching, and automatic retry with exponential backoff.
+The platform is structured around a multi-page architecture covering a home/landing experience, a dynamic menu browser, an order placement flow, a table reservation system, and a subscription module for repeat customers. PHP handles all server-side logic including user session management, order processing, and database writes. The MySQL schema supports relational entities for users, menu items, orders, and reservations with foreign key constraints ensuring data consistency.
 
 <br/>
 
@@ -317,60 +289,35 @@ The scheduler core is written in Rust for deterministic latency and memory safet
 
 <br/>
 
-**Senior Software Engineer — AI Platform**
-&nbsp;&nbsp;`TechCorp Inc.` &nbsp;·&nbsp; `Jan 2023 – Present`
+**Frontend Developer Intern**
+&nbsp;&nbsp;`Prodigy Infotech` &nbsp;·&nbsp; `June 2024 – August 2024`
 
-> Led the design and delivery of a production AI Platform serving 3M+ monthly active users across 15 product lines. Owned the end-to-end architecture of LLM integration, vector retrieval, and model observability infrastructure.
+> Contributed to real-world frontend development projects, building responsive, user-friendly interfaces while deepening expertise in UI/UX design principles and modern web development best practices.
 
-- Architected a multi-tenant RAG framework reducing time-to-integration for new LLM features from 3 weeks to 2 days
-- Designed and shipped a real-time model monitoring system tracking drift, latency, and token cost with automatic alerting
-- Led a cross-functional team of 8 engineers across backend, ML, and infra; drove quarterly roadmap and technical strategy
-- Reduced GPU inference cost by 52% through dynamic batching, quantization, and speculative decoding optimizations
-- Established internal AI engineering standards, reviewed 500+ PRs, and authored 20+ internal engineering RFCs
+- Developed responsive web interfaces using HTML, CSS, and JavaScript, optimized for usability across device sizes
+- Built visually polished, functional web components that directly contributed to improved user experience metrics
+- Applied UI/UX design best practices learned through hands-on project execution, including accessibility and layout principles
+- Collaborated actively in a team environment, sharing technical knowledge and contributing to a culture of continuous learning
 
-&nbsp;![Python](https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-4f46e5?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-6d28d9?style=flat-square&logo=kubernetes&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-7c3aed?style=flat-square&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4f46e5?style=flat-square&logo=postgresql&logoColor=white)
+&nbsp;![HTML](https://img.shields.io/badge/HTML-6d28d9?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-7c3aed?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4f46e5?style=flat-square&logo=javascript&logoColor=white)
 
 <br/>
 
-**Software Engineer II — Backend & Data Systems**
-&nbsp;&nbsp;`DataSystems Ltd.` &nbsp;·&nbsp; `Jul 2021 – Dec 2022`
+**Team Lead — GenAI Hackathon**
+&nbsp;&nbsp;`Accenture Innovation Challenge` &nbsp;·&nbsp; `October 2024 – November 2024`
 
-> Owned mission-critical data ingestion pipelines processing 8B+ events per day for a B2B analytics platform. Delivered reliability, throughput, and cost improvements across a complex distributed data ecosystem.
+> Led a 4-person team in an industry-level hackathon to design and prototype a GenAI-powered solution addressing real-world business challenges under a competitive, time-bound environment.
 
-- Re-architected the core ingestion pipeline from a monolithic service to a Kafka-based event streaming system, increasing throughput 10× and eliminating data loss on downstream failures
-- Built a real-time anomaly detection service using Isolation Forest and statistical process control, reducing alert noise by 64%
-- Designed and implemented a multi-region active-active database architecture achieving RPO < 1 minute and RTO < 5 minutes
-- Mentored 3 junior engineers and introduced a weekly design review culture that improved architectural quality team-wide
+- Led full team of 4, coordinating ideation, technical execution, and final presentation delivery end-to-end
+- Architected and built a GenAI-based prototype leveraging emerging AI technologies to solve a defined problem statement
+- Demonstrated strong critical thinking and adaptability in a high-pressure, innovation-first environment
+- Delivered a polished solution presentation, sharpening technical communication and storytelling skills alongside engineering work
 
-&nbsp;![Go](https://img.shields.io/badge/Go-6d28d9?style=flat-square&logo=go&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-7c3aed?style=flat-square&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-4f46e5?style=flat-square&logo=apachespark&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-6d28d9?style=flat-square&logo=redis&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7c3aed?style=flat-square&logo=terraform&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4f46e5?style=flat-square&logo=googlecloud&logoColor=white)
-
-<br/>
-
-**Software Engineer — Full Stack**
-&nbsp;&nbsp;`StartupXYZ` &nbsp;·&nbsp; `Aug 2019 – Jun 2021`
-
-> Early engineer at a Series A SaaS startup, contributing across the full stack from greenfield product architecture to customer-facing feature delivery and DevOps infrastructure modernization.
-
-- Built the core multi-tenant SaaS backend from scratch using Node.js and PostgreSQL, serving 200+ enterprise clients
-- Delivered a real-time collaboration feature using WebSockets and CRDTs, enabling concurrent editing with zero conflict rate
-- Migrated the frontend from a legacy jQuery codebase to a React/TypeScript architecture, improving Lighthouse score from 41 to 96
-- Implemented CI/CD pipelines using GitHub Actions and containerized deployments via Docker and ECS, cutting release cycle from 2 weeks to daily deploys
-
-&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-6d28d9?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-7c3aed?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-4f46e5?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-6d28d9?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c3aed?style=flat-square&logo=postgresql&logoColor=white)
+&nbsp;![GenAI](https://img.shields.io/badge/GenAI-6d28d9?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Team%20Leadership-4f46e5?style=flat-square&logoColor=white)
 
 ---
 
@@ -380,12 +327,12 @@ The scheduler core is written in Rust for deterministic latency and memory safet
 
 | Recognition | Details |
 |:---:|:---|
-| 🏆 &nbsp;**Engineering Excellence Award** | Recognized for architectural leadership and delivery of the AI Platform initiative · TechCorp Inc. · 2024 |
-| 🥇 &nbsp;**National Hackathon — 1st Place** | Built an AI-powered legal document summarization tool · 48-hour national competition · 2023 |
-| ⭐ &nbsp;**Open Source — Top Contributor** | Top 5 contributor to a 4.2K-star ML inference optimization library on GitHub |
-| 📄 &nbsp;**Technical Publication** | Co-authored paper on efficient RAG architectures accepted at a peer-reviewed AI workshop · 2024 |
-| 🎓 &nbsp;**University Gold Medallist** | Graduated top of cohort in Computer Science & Engineering with 9.4 CGPA |
-| 🔬 &nbsp;**Research Grant Recipient** | Awarded institutional research grant for work on neural network pruning for edge inference |
+| 🏆 &nbsp;**Accenture Innovation Challenge** | Led a 4-person team to build a GenAI solution in a national-level industry hackathon · Oct–Nov 2024 |
+| 🎓 &nbsp;**Academic Excellence** | CGPA: 8.45 at ITER, SOA University · B.Tech Computer Science & IT (2022–Present) |
+| 📈 &nbsp;**Senior Secondary Top Score** | 87.8% in Class 12 · Kendriya Vidyalaya No. 3, Bhubaneswar · 2022 |
+| 📚 &nbsp;**Secondary Board Excellence** | 91.8% in Class 10 · Kendriya Vidyalaya No. 3, Bhubaneswar · 2020 |
+| 🤖 &nbsp;**AI Desktop Assistant** | Built a fully functional voice-driven AI assistant (J.A.R.V.I.S) using Python AI libraries |
+| 💼 &nbsp;**Internship Completion** | Frontend Developer Intern · Prodigy Infotech · Certified · July 2024 |
 
 </div>
 
@@ -395,47 +342,21 @@ The scheduler core is written in Rust for deterministic latency and memory safet
 
 <div align="center">
 
-**Amazon Web Services**
+**Prodigy InfoTech**
 
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-&nbsp;
-![AWS ML Specialty](https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-&nbsp;
-![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Web Dev Certificate](https://img.shields.io/badge/Prodigy%20InfoTech-Web%20Development%20Certificate-6d28d9?style=for-the-badge&logoColor=white)
 
 <br/>
 
-**Google Cloud**
+**HackerRank**
 
-![GCP Professional DE](https://img.shields.io/badge/GCP-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-&nbsp;
-![GCP Associate CE](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 <br/>
 
-**Oracle**
+**Infosys Springboard**
 
-![OCI Foundations](https://img.shields.io/badge/Oracle-OCI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-&nbsp;
-![OCI AI Foundations](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-<br/>
-
-**NPTEL**
-
-![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-1b3a5c?style=for-the-badge&logoColor=white)
-&nbsp;
-![NPTEL ML](https://img.shields.io/badge/NPTEL-Machine%20Learning-1b3a5c?style=for-the-badge&logoColor=white)
-&nbsp;
-![NPTEL DL](https://img.shields.io/badge/NPTEL-Deep%20Learning-1b3a5c?style=for-the-badge&logoColor=white)
-
-<br/>
-
-**Cisco**
-
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-&nbsp;
-![Cisco CyberOps](https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Python Basics](https://img.shields.io/badge/Infosys%20Springboard-Basics%20of%20Python-1b3a5c?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -445,32 +366,26 @@ The scheduler core is written in Rust for deterministic latency and memory safet
 
 <div align="center">
 
-<a href="https://leetcode.com/yourusername">
-  <img src="https://img.shields.io/badge/LeetCode-1800%2B%20Problems%20%7C%20Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://www.hackerrank.com/ankitomm4040">
+  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.geeksforgeeks.org/user/yourusername">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-3%2C500%2B%20Score%20%7C%20Institute%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<a href="https://leetcode.com/ShroudAnkit53">
+  <img src="https://img.shields.io/badge/LeetCode-Competitive%20Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.hackerrank.com/yourusername">
-  <img src="https://img.shields.io/badge/HackerRank-6%20Star%20%7C%20Gold%20Badge-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<a href="https://www.geeksforgeeks.org/user/ankitomm4040">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practitioner-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.codechef.com/users/yourusername">
-  <img src="https://img.shields.io/badge/CodeChef-4%20Star%20%7C%201900%2B%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://codeforces.com/profile/yourusername">
-  <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201500%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<a href="https://www.codechef.com/users/shroudankit53">
+  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </div>
@@ -481,13 +396,13 @@ The scheduler core is written in Rust for deterministic latency and memory safet
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=e2e8f0&ring_color=4f46e5&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShroudAnkit53&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=e2e8f0&ring_color=4f46e5&include_all_commits=true" width="48%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=6d28d9&fire=4f46e5&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=7c3aed&sideNums=6d28d9&dates=a78bfa" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShroudAnkit53&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=6d28d9&fire=4f46e5&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=7c3aed&sideNums=6d28d9&dates=a78bfa" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=e2e8f0&hide=html,css" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShroudAnkit53&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=e2e8f0" width="48%" />
 
 </div>
 
@@ -497,7 +412,7 @@ The scheduler core is written in Rust for deterministic latency and memory safet
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,PullRequest,Issues,Reviews,Stars,Followers" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShroudAnkit53&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,PullRequest,Issues,Reviews,Stars,Followers" />
 
 </div>
 
@@ -507,7 +422,7 @@ The scheduler core is written in Rust for deterministic latency and memory safet
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=7c3aed&line=6d28d9&point=4f46e5&area=true&area_color=7c3aed" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShroudAnkit53&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=7c3aed&line=6d28d9&point=4f46e5&area=true&area_color=7c3aed" width="100%" />
 
 </div>
 
@@ -517,7 +432,7 @@ The scheduler core is written in Rust for deterministic latency and memory safet
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/ShroudAnkit53/ShroudAnkit53/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
@@ -527,25 +442,25 @@ The scheduler core is written in Rust for deterministic latency and memory safet
 
 ```yaml
 learning:
-  - Advanced LLM alignment techniques and RLHF at scale
-  - Distributed systems consensus algorithms (Raft, Multi-Paxos)
-  - Rust systems programming for high-performance ML inference
+  - Advanced React.js patterns — hooks, context, performance optimization
+  - Node.js backend architecture and RESTful API design at scale
+  - Data Structures & Algorithms for competitive programming
 
 building:
-  - Open-source developer tooling for LLM observability and evaluation
-  - A production-grade RAG framework with pluggable retrieval backends
-  - Personal research on efficient transformer architectures for edge devices
+  - Full stack projects integrating React frontend with Node.js/PHP backends
+  - GenAI-powered web applications using Python AI libraries
+  - Open source contributions to frontend and developer tooling projects
 
 exploring:
-  - Neuromorphic computing and spiking neural networks
-  - WebAssembly for portable, sandboxed AI inference in the browser
-  - Formal verification methods applied to distributed protocol design
+  - Large Language Models and prompt engineering for real-world applications
+  - Cloud fundamentals — AWS and deployment pipelines
+  - UI/UX design systems and component library architecture
 
 open_to:
-  - Senior / Staff Software Engineering roles (AI, Platform, Backend)
-  - Research Engineering and applied ML positions
-  - Open source collaboration on developer infrastructure
-  - Technical advisory for early-stage AI startups
+  - Frontend Developer and Full Stack roles (fresher / new grad)
+  - SDE internships with product-focused engineering teams
+  - Open source collaboration on web and AI projects
+  - Hackathons and innovation challenges
 ```
 
 ---
@@ -554,31 +469,39 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:you@email.com">
-  <img src="https://img.shields.io/badge/Gmail-you%40email.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:ankitomm4040@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ankitomm4040%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fyourprofile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/ankit-kumar-sahoo-9015b9271">
+  <img src="https://img.shields.io/badge/LinkedIn-ankit--kumar--sahoo--9015b9271-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/badge/GitHub-github.com%2Fyourusername-1e1b4b?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/ShroudAnkit53">
+  <img src="https://img.shields.io/badge/GitHub-ShroudAnkit53-1e1b4b?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://yourportfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-yourportfolio.dev-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Phone-%2B91%207735734826-6d28d9?style=for-the-badge&logo=phone&logoColor=white" />
 
 </div>
 
 ---
+
+<div align="center">
+
+*"Good software is not built from clever code — it is built from clear thinking, honest craft, and a relentless focus on the person using it."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=120&section=footer" width="100%" />
+
+</div>
 
 <div align="center">
 
