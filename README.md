@@ -352,20 +352,8 @@ Built on the MERN stack, this application gives users a clear, real-time view of
 
 <br/><br/>
 
-<a href="https://www.geeksforgeeks.org/user/ankitomm4040">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practitioner-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <a href="https://www.hackerrank.com/ankitomm4040">
   <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.codechef.com/users/shroudankit53">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </div>
