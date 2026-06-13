@@ -101,7 +101,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4f46e5&height=200&section=header&text=&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Ankit+Kumar+Sahoo;%7C+Full+Stack+Engineer;Building+Intelligent+%26+Scalable+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Ankit+Kumar+Sahoo;%7C+Full+Stack+Engineer%7C;Building+Intelligent+%26+Scalable+Web+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
