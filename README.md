@@ -380,7 +380,7 @@ Built on the MERN stack, this application gives users a clear, real-time view of
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShroudAnkit53&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,PullRequest,Issues,Reviews,Stars,Followers" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShroudAnkit53&theme=onestar&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
