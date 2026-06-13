@@ -336,7 +336,7 @@ Built on the MERN stack, this application gives users a clear, real-time view of
 
 **Hackerrank**
 
-![Certificate of Accomplishment in Problem Solving (Basic)](https://img.shields.io/badge/Prodigy%20InfoTech-Web%20Development%20Certificate-6d28d9?style=for-the-badge&logoColor=white)
+![Certificate of Accomplishment in Problem Solving (Basic)](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 </div>
 
