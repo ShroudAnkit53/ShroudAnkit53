@@ -150,11 +150,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShroudAnkit53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=e2e8f0&ring_color=4f46e5" width="420" />
 
-I am a **B.Tech Computer Science student** and passionate **Frontend Developer** at ITER, Siksha'O'Anusandhan University, with a strong foundation in building responsive, user-centric web interfaces and full stack applications.
+I am a **B.Tech Computer Science student** and enthusiastic **Frontend Developer** at ITER, Siksha'O'Anusandhan University, with a strong foundation in building responsive, user-centric web interfaces and full stack applications.
 
-My development approach centers on writing clean, maintainable code that solves real-world problems — from e-commerce platforms and AI-powered desktop assistants to food delivery services. I bring a product-first mindset to every project, with an eye for UI/UX quality and a drive for technical depth.
+My development approach centers on writing clean, maintainable code that solves real-world problems — from e-commerce platforms and AI-powered desktop assistants to MERN stack finance tools. I bring a product-first mindset to every project, with a sharp eye for UI/UX quality and a drive for continuous technical growth.
 
-I have hands-on experience with the complete web stack — HTML, CSS, JavaScript, React.js, Node.js, PHP, and MySQL — and I thrive in collaborative environments, having led hackathon teams and contributed actively in internship settings. I am currently expanding my expertise into **GenAI**, **Python-based AI tooling**, and **scalable backend systems**.
+I have hands-on experience with the complete web stack — HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, PHP, and MySQL — and I thrive in collaborative environments, having led hackathon teams and contributed to open source projects via GirlScript Summer of Code. I am currently expanding into **MERN stack engineering**, **open source contribution**, and **scalable full stack architecture**.
 
 <br/>
 
@@ -185,7 +185,7 @@ I have hands-on experience with the complete web stack — HTML, CSS, JavaScript
 
 ### Backend & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark&perline=8" />
 </a>
 
 <br/>
@@ -194,22 +194,6 @@ I have hands-on experience with the complete web stack — HTML, CSS, JavaScript
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,github,git&theme=dark&perline=8" />
 </a>
-
-</div>
-
----
-
-## ⬡ &nbsp;AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Python AI Tooling | ████████░░░░ Proficient | Voice recognition, speech synthesis, OS automation, task scripting |
-| GenAI Prototyping | ████████░░░░ Proficient | LLM-based solution design, GenAI hackathon development, prompt design |
-| Web Intelligence | ███████░░░░░ Developing | Interactive UI logic, form intelligence, dynamic rendering with JS |
-| Data Foundations | ███████░░░░░ Developing | MySQL data modeling, query optimization, relational schema design |
-| Basics of Python ML | ██████░░░░░░ Developing | Infosys Springboard certified, NumPy, basic model concepts |
 
 </div>
 
@@ -233,7 +217,7 @@ I have hands-on experience with the complete web stack — HTML, CSS, JavaScript
 | **Impact** | Demonstrates end-to-end full stack capability across frontend, backend, and database layers |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/ShroudAnkit53) |
 
-This project was designed to mirror a production e-commerce experience at a smaller scale. The frontend delivers a clean, intuitive shopping flow — product listings, filtering, cart management, and a checkout process. The PHP backend handles session-based user authentication, order processing logic, and MySQL interactions for persistent product and order data. The schema is normalized to third normal form to maintain data integrity across concurrent sessions.
+This project was designed to mirror a production e-commerce experience at a smaller scale. The frontend delivers a clean, intuitive shopping flow — product listings, filtering, cart management, and a checkout process. The PHP backend handles session-based user authentication, order processing logic, and MySQL interactions for persistent product and order data. The schema is normalized to maintain data integrity across concurrent sessions.
 
 <br/>
 
@@ -255,29 +239,29 @@ This project was designed to mirror a production e-commerce experience at a smal
 | **Impact** | Demonstrates applied Python AI tooling, voice interface design, and desktop automation |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/ShroudAnkit53) |
 
-J.A.R.V.I.S combines several Python AI libraries to create a cohesive voice-driven experience. The speech recognition pipeline converts microphone input to text in real time, which is then matched against a command registry supporting web search, Wikipedia lookups, file management, application launching, and time/date queries. Text-to-speech synthesis via pyttsx3 delivers spoken responses, creating a fully hands-free interaction loop. The architecture is modular, allowing new command handlers to be registered with minimal changes.
+J.A.R.V.I.S combines several Python AI libraries to create a cohesive voice-driven experience. The speech recognition pipeline converts microphone input to text in real time, matched against a command registry supporting web search, Wikipedia lookups, file management, application launching, and time/date queries. Text-to-speech synthesis via pyttsx3 delivers spoken responses, creating a fully hands-free interaction loop. The architecture is modular, allowing new command handlers to be registered with minimal changes.
 
 <br/>
 
 </details>
 
 <details>
-<summary><b>&nbsp;⬡ &nbsp;Online Food Service Website</b></summary>
+<summary><b>&nbsp;⬡ &nbsp;Expense Tracker Website</b></summary>
 
 <br/>
 
-> A web-based food ordering platform that allows users to browse restaurant menus, place food orders, make reservations, and manage subscriptions — built with a PHP backend and MySQL-powered data layer.
+> A powerful MERN stack web application designed to help users take full control of their finances — offering a smooth, secure, and intuitive experience for tracking income, expenses, and spending patterns in real time.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | HTML · CSS · JavaScript · PHP · MySQL |
-| **Scale** | Menu catalog · order placement · reservation system · subscription management |
-| **Performance** | Dynamic menu rendering · server-side order processing · responsive mobile layout |
-| **Security** | Input sanitization · session-based user state · parameterized DB queries |
-| **Impact** | Full stack project showcasing real-world service delivery application design |
+| **Stack** | React.js · Express.js · Node.js · MongoDB |
+| **Scale** | Full stack single-page app · dynamic dashboard · persistent user data via MongoDB |
+| **Performance** | Real-time UI updates · optimized REST API · responsive layout across devices |
+| **Security** | JWT-based authentication · protected API routes · input validation on client and server |
+| **Impact** | Demonstrates complete MERN stack proficiency from data modeling to interactive UI |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/ShroudAnkit53) |
 
-The platform is structured around a multi-page architecture covering a home/landing experience, a dynamic menu browser, an order placement flow, a table reservation system, and a subscription module for repeat customers. PHP handles all server-side logic including user session management, order processing, and database writes. The MySQL schema supports relational entities for users, menu items, orders, and reservations with foreign key constraints ensuring data consistency.
+Built on the MERN stack, this application gives users a clear, real-time view of their financial health. React.js powers a dynamic, component-driven frontend with live expense summaries and category breakdowns. The Node.js/Express.js backend exposes a RESTful API handling CRUD operations for transactions, secured via JWT authentication. MongoDB stores user and transaction data with a flexible document schema, enabling rapid iteration on feature requirements without schema migrations.
 
 <br/>
 
@@ -289,19 +273,19 @@ The platform is structured around a multi-page architecture covering a home/land
 
 <br/>
 
-**Frontend Developer Intern**
-&nbsp;&nbsp;`Prodigy Infotech` &nbsp;·&nbsp; `June 2024 – August 2024`
+**Open Source Contributor**
+&nbsp;&nbsp;`GirlScript Summer of Code` &nbsp;·&nbsp; `July 2025 – Present`
 
-> Contributed to real-world frontend development projects, building responsive, user-friendly interfaces while deepening expertise in UI/UX design principles and modern web development best practices.
+> Contributing to open source projects as part of GirlScript Summer of Code — collaborating with maintainers and peer contributors to improve codebases through issue resolution, feature additions, and UI/UX enhancements.
 
-- Developed responsive web interfaces using HTML, CSS, and JavaScript, optimized for usability across device sizes
-- Built visually polished, functional web components that directly contributed to improved user experience metrics
-- Applied UI/UX design best practices learned through hands-on project execution, including accessibility and layout principles
-- Collaborated actively in a team environment, sharing technical knowledge and contributing to a culture of continuous learning
+- Collaborating with project maintainers and peers to fix issues, add features, and improve UI/UX across repositories
+- Gaining hands-on experience with Git, GitHub workflows, issue tracking, and open-source contribution best practices
+- Improving code quality and problem-solving skills through regular code reviews and active community engagement
+- Building a public contribution record that demonstrates real-world collaborative engineering experience
 
-&nbsp;![HTML](https://img.shields.io/badge/HTML-6d28d9?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-7c3aed?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4f46e5?style=flat-square&logo=javascript&logoColor=white)
+&nbsp;![Git](https://img.shields.io/badge/Git-6d28d9?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=flat-square&logo=github&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-4f46e5?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -317,7 +301,7 @@ The platform is structured around a multi-page architecture covering a home/land
 
 &nbsp;![GenAI](https://img.shields.io/badge/GenAI-6d28d9?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Team%20Leadership-4f46e5?style=flat-square&logoColor=white)
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership-4f46e5?style=flat-square&logoColor=white)
 
 ---
 
@@ -327,12 +311,12 @@ The platform is structured around a multi-page architecture covering a home/land
 
 | Recognition | Details |
 |:---:|:---|
+| 🌍 &nbsp;**GirlScript Summer of Code** | Active open source contributor · collaborating on real-world repositories · July 2025–Present |
 | 🏆 &nbsp;**Accenture Innovation Challenge** | Led a 4-person team to build a GenAI solution in a national-level industry hackathon · Oct–Nov 2024 |
-| 🎓 &nbsp;**Academic Excellence** | CGPA: 8.45 at ITER, SOA University · B.Tech Computer Science & IT (2022–Present) |
+| 🎓 &nbsp;**Academic Excellence** | CGPA: 8.38 at ITER, SOA University · B.Tech Computer Science & IT (2022–Present) |
 | 📈 &nbsp;**Senior Secondary Top Score** | 87.8% in Class 12 · Kendriya Vidyalaya No. 3, Bhubaneswar · 2022 |
 | 📚 &nbsp;**Secondary Board Excellence** | 91.8% in Class 10 · Kendriya Vidyalaya No. 3, Bhubaneswar · 2020 |
 | 🤖 &nbsp;**AI Desktop Assistant** | Built a fully functional voice-driven AI assistant (J.A.R.V.I.S) using Python AI libraries |
-| 💼 &nbsp;**Internship Completion** | Frontend Developer Intern · Prodigy Infotech · Certified · July 2024 |
 
 </div>
 
@@ -342,21 +326,17 @@ The platform is structured around a multi-page architecture covering a home/land
 
 <div align="center">
 
-**Prodigy InfoTech**
-
-![Web Dev Certificate](https://img.shields.io/badge/Prodigy%20InfoTech-Web%20Development%20Certificate-6d28d9?style=for-the-badge&logoColor=white)
-
-<br/>
-
-**HackerRank**
-
-![Problem Solving](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-
-<br/>
-
 **Infosys Springboard**
 
 ![Python Basics](https://img.shields.io/badge/Infosys%20Springboard-Basics%20of%20Python-1b3a5c?style=for-the-badge&logoColor=white)
+&nbsp;
+![Time Management](https://img.shields.io/badge/Infosys%20Springboard-Time%20Management%20Skills-1b3a5c?style=for-the-badge&logoColor=white)
+
+<br/>
+
+**Prodigy InfoTech**
+
+![Web Dev Certificate](https://img.shields.io/badge/Prodigy%20InfoTech-Web%20Development%20Certificate-6d28d9?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -366,12 +346,6 @@ The platform is structured around a multi-page architecture covering a home/land
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/ankitomm4040">
-  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <a href="https://leetcode.com/ShroudAnkit53">
   <img src="https://img.shields.io/badge/LeetCode-Competitive%20Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
@@ -380,6 +354,12 @@ The platform is structured around a multi-page architecture covering a home/land
 
 <a href="https://www.geeksforgeeks.org/user/ankitomm4040">
   <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practitioner-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.hackerrank.com/ankitomm4040">
+  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -443,23 +423,23 @@ The platform is structured around a multi-page architecture covering a home/land
 ```yaml
 learning:
   - Advanced React.js patterns — hooks, context, performance optimization
-  - Node.js backend architecture and RESTful API design at scale
+  - MERN stack architecture and RESTful API design at scale
   - Data Structures & Algorithms for competitive programming
 
 building:
-  - Full stack projects integrating React frontend with Node.js/PHP backends
-  - GenAI-powered web applications using Python AI libraries
-  - Open source contributions to frontend and developer tooling projects
+  - Full stack MERN projects with clean UI and robust backend APIs
+  - Open source contributions via GirlScript Summer of Code
+  - Personal projects exploring finance, productivity, and developer tooling
 
 exploring:
-  - Large Language Models and prompt engineering for real-world applications
-  - Cloud fundamentals — AWS and deployment pipelines
+  - TypeScript for scalable frontend and backend development
+  - Cloud fundamentals — AWS deployment and CI/CD pipelines
   - UI/UX design systems and component library architecture
 
 open_to:
   - Frontend Developer and Full Stack roles (fresher / new grad)
   - SDE internships with product-focused engineering teams
-  - Open source collaboration on web and AI projects
+  - Open source collaboration on web and developer tooling projects
   - Hackathons and innovation challenges
 ```
 
@@ -487,7 +467,7 @@ open_to:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Phone-%2B91%207735734826-6d28d9?style=for-the-badge&logo=phone&logoColor=white" />
+<img src="https://img.shields.io/badge/Phone-%2B91%207735734826-6d28d9?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -496,16 +476,6 @@ open_to:
 <div align="center">
 
 *"Good software is not built from clever code — it is built from clear thinking, honest craft, and a relentless focus on the person using it."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=120&section=footer" width="100%" />
-
-</div>
-
-<div align="center">
-
-*"The best engineers are not those who write the most code — they are those who deeply understand the problem, then write exactly the right code."*
 
 <br/>
 
