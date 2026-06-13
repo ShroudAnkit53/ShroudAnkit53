@@ -376,15 +376,15 @@ Built on the MERN stack, this application gives users a clear, real-time view of
 
 ---
 
-## ⬡ &nbsp;GitHub Trophies
 
-<div align="center">
+
+<!-- <div align="center">
 
 <img src="https://gh-trophy.egoist.dev/?username=ShroudAnkit53&theme=onestar&no-frame=true&no-bg=true&margin-w=8" />
 
-</div>
+</div> -->
 
----
+
 
 ## ⬡ &nbsp;Contribution Activity
 
